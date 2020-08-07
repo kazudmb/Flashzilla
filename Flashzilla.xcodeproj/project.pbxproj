@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AE04F4DD24DCFEFE00D78478 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE04F4DC24DCFEFE00D78478 /* Card.swift */; };
+		AE04F4DF24DCFFC500D78478 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE04F4DE24DCFFC500D78478 /* CardView.swift */; };
 		AE2E565124DA3C7500F3DAAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE2E565024DA3C7500F3DAAA /* AppDelegate.swift */; };
 		AE2E565324DA3C7500F3DAAA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE2E565224DA3C7500F3DAAA /* SceneDelegate.swift */; };
 		AE2E565524DA3C7500F3DAAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE2E565424DA3C7500F3DAAA /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AE04F4DC24DCFEFE00D78478 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		AE04F4DE24DCFFC500D78478 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		AE2E564D24DA3C7500F3DAAA /* Flashzilla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashzilla.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE2E565024DA3C7500F3DAAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE2E565224DA3C7500F3DAAA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				AE2E565024DA3C7500F3DAAA /* AppDelegate.swift */,
 				AE2E565224DA3C7500F3DAAA /* SceneDelegate.swift */,
 				AE2E565424DA3C7500F3DAAA /* ContentView.swift */,
+				AE04F4DC24DCFEFE00D78478 /* Card.swift */,
+				AE04F4DE24DCFFC500D78478 /* CardView.swift */,
 				AE2E565624DA3C7A00F3DAAA /* Assets.xcassets */,
 				AE2E565B24DA3C7A00F3DAAA /* LaunchScreen.storyboard */,
 				AE2E565E24DA3C7A00F3DAAA /* Info.plist */,
@@ -149,6 +155,8 @@
 				AE2E565124DA3C7500F3DAAA /* AppDelegate.swift in Sources */,
 				AE2E565324DA3C7500F3DAAA /* SceneDelegate.swift in Sources */,
 				AE2E565524DA3C7500F3DAAA /* ContentView.swift in Sources */,
+				AE04F4DD24DCFEFE00D78478 /* Card.swift in Sources */,
+				AE04F4DF24DCFFC500D78478 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
