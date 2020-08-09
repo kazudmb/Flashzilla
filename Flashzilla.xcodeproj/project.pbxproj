@@ -15,6 +15,7 @@
 		AE2E565724DA3C7A00F3DAAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE2E565624DA3C7A00F3DAAA /* Assets.xcassets */; };
 		AE2E565A24DA3C7A00F3DAAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE2E565924DA3C7A00F3DAAA /* Preview Assets.xcassets */; };
 		AE2E565D24DA3C7A00F3DAAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE2E565B24DA3C7A00F3DAAA /* LaunchScreen.storyboard */; };
+		AECD738E24DFD45A00FA8620 /* EditCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = AECD738D24DFD45A00FA8620 /* EditCards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AE2E565924DA3C7A00F3DAAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AE2E565C24DA3C7A00F3DAAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE2E565E24DA3C7A00F3DAAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AECD738D24DFD45A00FA8620 /* EditCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				AE2E565424DA3C7500F3DAAA /* ContentView.swift */,
 				AE04F4DC24DCFEFE00D78478 /* Card.swift */,
 				AE04F4DE24DCFFC500D78478 /* CardView.swift */,
+				AECD738D24DFD45A00FA8620 /* EditCards.swift */,
 				AE2E565624DA3C7A00F3DAAA /* Assets.xcassets */,
 				AE2E565B24DA3C7A00F3DAAA /* LaunchScreen.storyboard */,
 				AE2E565E24DA3C7A00F3DAAA /* Info.plist */,
@@ -155,6 +158,7 @@
 				AE2E565124DA3C7500F3DAAA /* AppDelegate.swift in Sources */,
 				AE2E565324DA3C7500F3DAAA /* SceneDelegate.swift in Sources */,
 				AE2E565524DA3C7500F3DAAA /* ContentView.swift in Sources */,
+				AECD738E24DFD45A00FA8620 /* EditCards.swift in Sources */,
 				AE04F4DD24DCFEFE00D78478 /* Card.swift in Sources */,
 				AE04F4DF24DCFFC500D78478 /* CardView.swift in Sources */,
 			);
