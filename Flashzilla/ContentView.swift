@@ -138,6 +138,8 @@ struct ContentView: View {
             guard self.isActive else { return }
             if self.timeRemaining > 0 {
                 self.timeRemaining -= 1
+            } else {
+                print("Time up")
             }
         }
         .sheet(isPresented: $showingEditScreen, onDismiss: resetCards) {
